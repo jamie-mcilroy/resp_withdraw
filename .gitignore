@@ -1,2 +1,18 @@
 portfolio_file.csv
-respenv/
+respvenv/
+/respvenv/
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# VS Code settings
+.vscode/
+
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
